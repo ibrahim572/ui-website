@@ -1,0 +1,58 @@
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  .w-60 {
+    width: 100%;
+    margin: 0;
+  }
+  .skl span {
+    font-size: 12px;
+    float: right;
+    margin-right: 20px;
+    font-size: 14px;
+    color: white;
+  }
+  .skl {
+    width: 100%;
+  }
+  .parent {
+    background-color: #e9ecef;
+  }
+  .child {
+    width: 100%;
+    width: 450px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: black;
+  }
+  .htm {
+    background-color: #e9ecef;
+  }
+  .cs {
+    width: 100%;
+    width: 400px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: black;
+  }
+  .htm span {
+    font-size: 12px;
+    float: right;
+    margin-right: 70px;
+    font-size: 14px;
+    color: white;
+  }
+  .devlop {
+    width: 100%;
+    width: 420px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: black;
+  }
+  .about-txt p {
+    font-size: 15px;
+    width: 100%;
+  }
+  /*serv*/
+  .con {
+    width: 100%;
+  }
+}
